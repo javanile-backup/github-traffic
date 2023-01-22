@@ -1,15 +1,15 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--01--15%2008%3A25%3A10%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--01--22%2008%3A25%3A11%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/badgr-server](https://github.com/javanile-backup/badgr-server) | 1 | 2 | 1 |  |
-| 2 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 | 🟩 |
-| 3 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 | 🟩 |
-| 4 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 | 🟩 |
-| 5 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 0 | 0 | 0 | 🟥 |
+| 1 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 1 | 3 | 1 | 🟩 |
+| 2 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
+| 3 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
+| 4 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
+| 5 | [javanile-backup/badgr-server](https://github.com/javanile-backup/badgr-server) | 0 | 0 | 0 | 🟥 |
 | 6 | [javanile-backup/badgr-ui](https://github.com/javanile-backup/badgr-ui) | 0 | 0 | 0 |  |
 | 7 | [javanile-backup/balance80](https://github.com/javanile-backup/balance80) | 0 | 0 | 0 |  |
 | 8 | [javanile-backup/bash.bat](https://github.com/javanile-backup/bash.bat) | 0 | 0 | 0 |  |
