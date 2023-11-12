@@ -1,14 +1,14 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--11--05%2008%3A21%3A40%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--11--12%2008%3A21%3A24%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 36 | 157 | 1 |  |
-| 2 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 4 | 15 | 3 | 🟩 |
-| 3 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 2 | 11 | 1 | 🟩 |
-| 4 | [javanile-backup/keystonejs](https://github.com/javanile-backup/keystonejs) | 1 | 2 | 1 | 🟩 |
+| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 38 | 230 | 1 |  |
+| 2 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 3 | 16 | 2 |  |
+| 3 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 2 | 11 | 1 |  |
+| 4 | [javanile-backup/keystonejs](https://github.com/javanile-backup/keystonejs) | 1 | 2 | 1 |  |
 | 5 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
 | 6 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
 | 7 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
@@ -37,10 +37,10 @@ This project collects all data of incoming traffic to our organization
 | 30 | [javanile-backup/imap-client](https://github.com/javanile-backup/imap-client) | 0 | 0 | 0 |  |
 | 31 | [javanile-backup/jazz.js](https://github.com/javanile-backup/jazz.js) | 0 | 0 | 0 |  |
 | 32 | [javanile-backup/jq](https://github.com/javanile-backup/jq) | 0 | 0 | 0 |  |
-| 33 | [javanile-backup/leancrm](https://github.com/javanile-backup/leancrm) | 0 | 0 | 0 | 🟩 |
-| 34 | [javanile-backup/light-acl](https://github.com/javanile-backup/light-acl) | 0 | 0 | 0 | 🟩 |
-| 35 | [javanile-backup/mailrig](https://github.com/javanile-backup/mailrig) | 0 | 0 | 0 | 🟩 |
-| 36 | [javanile-backup/mybackup](https://github.com/javanile-backup/mybackup) | 0 | 0 | 0 | 🟥 |
+| 33 | [javanile-backup/leancrm](https://github.com/javanile-backup/leancrm) | 0 | 0 | 0 |  |
+| 34 | [javanile-backup/light-acl](https://github.com/javanile-backup/light-acl) | 0 | 0 | 0 |  |
+| 35 | [javanile-backup/mailrig](https://github.com/javanile-backup/mailrig) | 0 | 0 | 0 |  |
+| 36 | [javanile-backup/mybackup](https://github.com/javanile-backup/mybackup) | 0 | 0 | 0 |  |
 | 37 | [javanile-backup/ndev-framework](https://github.com/javanile-backup/ndev-framework) | 0 | 0 | 0 |  |
 | 38 | [javanile-backup/neuman](https://github.com/javanile-backup/neuman) | 0 | 0 | 0 |  |
 | 39 | [javanile-backup/processmaker](https://github.com/javanile-backup/processmaker) | 0 | 0 | 0 |  |
