@@ -1,14 +1,14 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--12--24%2008%3A21%3A52%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--12--31%2008%3A22%3A09%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 44 | 209 | 1 |  |
-| 2 | [javanile-backup/copycode](https://github.com/javanile-backup/copycode) | 3 | 3 | 1 | 🟩 |
-| 3 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 2 | 4 | 1 |  |
-| 4 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 2 | 2 | 2 | 🟥 |
+| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 42 | 314 | 1 |  |
+| 2 | [javanile-backup/copycode](https://github.com/javanile-backup/copycode) | 2 | 2 | 1 |  |
+| 3 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 1 | 3 | 1 |  |
+| 4 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 1 | 1 | 1 |  |
 | 5 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
 | 6 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
 | 7 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
