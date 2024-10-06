@@ -1,12 +1,12 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--09--29%2008%3A28%3A05%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--10--06%2008%3A27%3A28%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 19 | 40 | 2 |  |
-| 2 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 2 | 2 | 2 | 🟩 |
+| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 11 | 46 | 2 |  |
+| 2 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 3 | 3 | 3 |  |
 | 3 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
 | 4 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
 | 5 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
@@ -39,7 +39,7 @@ This project collects all data of incoming traffic to our organization
 | 32 | [javanile-backup/keystonejs](https://github.com/javanile-backup/keystonejs) | 0 | 0 | 0 |  |
 | 33 | [javanile-backup/leancrm](https://github.com/javanile-backup/leancrm) | 0 | 0 | 0 |  |
 | 34 | [javanile-backup/light-acl](https://github.com/javanile-backup/light-acl) | 0 | 0 | 0 |  |
-| 35 | [javanile-backup/mailrig](https://github.com/javanile-backup/mailrig) | 0 | 0 | 0 | 🟥 |
+| 35 | [javanile-backup/mailrig](https://github.com/javanile-backup/mailrig) | 0 | 0 | 0 |  |
 | 36 | [javanile-backup/mybackup](https://github.com/javanile-backup/mybackup) | 0 | 0 | 0 |  |
 | 37 | [javanile-backup/ndev-framework](https://github.com/javanile-backup/ndev-framework) | 0 | 0 | 0 |  |
 | 38 | [javanile-backup/neuman](https://github.com/javanile-backup/neuman) | 0 | 0 | 0 |  |
