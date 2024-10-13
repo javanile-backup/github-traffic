@@ -1,24 +1,24 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--10--06%2008%3A27%3A28%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--10--13%2008%3A27%3A43%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 11 | 46 | 2 |  |
-| 2 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 3 | 3 | 3 |  |
-| 3 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
-| 4 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
-| 5 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
-| 6 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 0 | 0 | 0 |  |
-| 7 | [javanile-backup/badgr-server](https://github.com/javanile-backup/badgr-server) | 0 | 0 | 0 |  |
-| 8 | [javanile-backup/badgr-ui](https://github.com/javanile-backup/badgr-ui) | 0 | 0 | 0 |  |
-| 9 | [javanile-backup/balance80](https://github.com/javanile-backup/balance80) | 0 | 0 | 0 |  |
-| 10 | [javanile-backup/bash.bat](https://github.com/javanile-backup/bash.bat) | 0 | 0 | 0 |  |
-| 11 | [javanile-backup/bashcov](https://github.com/javanile-backup/bashcov) | 0 | 0 | 0 |  |
-| 12 | [javanile-backup/bashskin](https://github.com/javanile-backup/bashskin) | 0 | 0 | 0 |  |
-| 13 | [javanile-backup/cloud-run-proxy](https://github.com/javanile-backup/cloud-run-proxy) | 0 | 0 | 0 |  |
-| 14 | [javanile-backup/copycode](https://github.com/javanile-backup/copycode) | 0 | 0 | 0 |  |
+| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 9 | 30 | 2 |  |
+| 2 | [javanile-backup/copycode](https://github.com/javanile-backup/copycode) | 1 | 1 | 1 | 🟩 |
+| 3 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 1 | 1 | 1 | 🟥 |
+| 4 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 | 🟥 |
+| 5 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 | 🟥 |
+| 6 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 | 🟥 |
+| 7 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 0 | 0 | 0 | 🟥 |
+| 8 | [javanile-backup/badgr-server](https://github.com/javanile-backup/badgr-server) | 0 | 0 | 0 | 🟥 |
+| 9 | [javanile-backup/badgr-ui](https://github.com/javanile-backup/badgr-ui) | 0 | 0 | 0 | 🟥 |
+| 10 | [javanile-backup/balance80](https://github.com/javanile-backup/balance80) | 0 | 0 | 0 | 🟥 |
+| 11 | [javanile-backup/bash.bat](https://github.com/javanile-backup/bash.bat) | 0 | 0 | 0 | 🟥 |
+| 12 | [javanile-backup/bashcov](https://github.com/javanile-backup/bashcov) | 0 | 0 | 0 | 🟥 |
+| 13 | [javanile-backup/bashskin](https://github.com/javanile-backup/bashskin) | 0 | 0 | 0 | 🟥 |
+| 14 | [javanile-backup/cloud-run-proxy](https://github.com/javanile-backup/cloud-run-proxy) | 0 | 0 | 0 | 🟥 |
 | 15 | [javanile-backup/crudable](https://github.com/javanile-backup/crudable) | 0 | 0 | 0 |  |
 | 16 | [javanile-backup/curlmail](https://github.com/javanile-backup/curlmail) | 0 | 0 | 0 |  |
 | 17 | [javanile-backup/docker-override](https://github.com/javanile-backup/docker-override) | 0 | 0 | 0 |  |
