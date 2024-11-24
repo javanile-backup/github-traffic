@@ -1,16 +1,16 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--11--17%2008%3A27%3A56%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--11--24%2008%3A29%3A35%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 28 | 54 | 3 |  |
-| 2 | [javanile-backup/copycode](https://github.com/javanile-backup/copycode) | 2 | 2 | 2 | 🟩 |
-| 3 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 | 🟩 |
-| 4 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 | 🟩 |
-| 5 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 | 🟩 |
-| 6 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 0 | 0 | 0 | 🟥 |
+| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 36 | 141 | 3 |  |
+| 2 | [javanile-backup/copycode](https://github.com/javanile-backup/copycode) | 4 | 4 | 3 |  |
+| 3 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
+| 4 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
+| 5 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
+| 6 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 0 | 0 | 0 |  |
 | 7 | [javanile-backup/badgr-server](https://github.com/javanile-backup/badgr-server) | 0 | 0 | 0 |  |
 | 8 | [javanile-backup/badgr-ui](https://github.com/javanile-backup/badgr-ui) | 0 | 0 | 0 |  |
 | 9 | [javanile-backup/balance80](https://github.com/javanile-backup/balance80) | 0 | 0 | 0 |  |
