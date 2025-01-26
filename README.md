@@ -1,11 +1,11 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--01--19%2008%3A25%3A34%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--01--26%2008%3A25%3A13%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 22 | 62 | 3 |  |
+| 1 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 31 | 86 | 4 |  |
 | 2 | [javanile-backup/vendor-producer](https://github.com/javanile-backup/vendor-producer) | 1 | 2 | 1 |  |
 | 3 | [javanile-backup/copycode](https://github.com/javanile-backup/copycode) | 1 | 1 | 1 |  |
 | 4 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
