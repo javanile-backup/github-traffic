@@ -1,11 +1,11 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--03--22%2008%3A48%3A32%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--03--29%2008%3A53%3A31%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 1 | 1 | 1 | 🟩 |
+| 1 | [javanile-backup/light-pdf](https://github.com/javanile-backup/light-pdf) | 1 | 1 | 1 |  |
 | 2 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
 | 3 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
 | 4 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
@@ -36,9 +36,9 @@ This project collects all data of incoming traffic to our organization
 | 29 | [javanile-backup/jazz.js](https://github.com/javanile-backup/jazz.js) | 0 | 0 | 0 |  |
 | 30 | [javanile-backup/jq](https://github.com/javanile-backup/jq) | 0 | 0 | 0 |  |
 | 31 | [javanile-backup/keystonejs](https://github.com/javanile-backup/keystonejs) | 0 | 0 | 0 |  |
-| 32 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 0 | 0 | 0 | 🟥 |
-| 33 | [javanile-backup/leancrm](https://github.com/javanile-backup/leancrm) | 0 | 0 | 0 | 🟥 |
-| 34 | [javanile-backup/light-acl](https://github.com/javanile-backup/light-acl) | 0 | 0 | 0 | 🟥 |
+| 32 | [javanile-backup/lamp](https://github.com/javanile-backup/lamp) | 0 | 0 | 0 |  |
+| 33 | [javanile-backup/leancrm](https://github.com/javanile-backup/leancrm) | 0 | 0 | 0 |  |
+| 34 | [javanile-backup/light-acl](https://github.com/javanile-backup/light-acl) | 0 | 0 | 0 |  |
 | 35 | [javanile-backup/mailrig](https://github.com/javanile-backup/mailrig) | 0 | 0 | 0 |  |
 | 36 | [javanile-backup/mybackup](https://github.com/javanile-backup/mybackup) | 0 | 0 | 0 |  |
 | 37 | [javanile-backup/ndev-framework](https://github.com/javanile-backup/ndev-framework) | 0 | 0 | 0 |  |
