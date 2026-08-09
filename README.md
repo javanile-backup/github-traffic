@@ -1,14 +1,14 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--08--02%2010%3A04%3A35%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--08--09%2008%3A54%3A32%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 1 | 1 | 1 |  |
-| 2 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
-| 3 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
-| 4 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
+| 1 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 | 🟩 |
+| 2 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 | 🟩 |
+| 3 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 | 🟩 |
+| 4 | [javanile-backup/backdoor](https://github.com/javanile-backup/backdoor) | 0 | 0 | 0 | 🟥 |
 | 5 | [javanile-backup/badgr-server](https://github.com/javanile-backup/badgr-server) | 0 | 0 | 0 |  |
 | 6 | [javanile-backup/badgr-ui](https://github.com/javanile-backup/badgr-ui) | 0 | 0 | 0 |  |
 | 7 | [javanile-backup/balance80](https://github.com/javanile-backup/balance80) | 0 | 0 | 0 |  |
