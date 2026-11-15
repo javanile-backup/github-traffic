@@ -1,11 +1,11 @@
 # javanile-backup (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--11--08%2014%3A59%3A44%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--11--15%2015%3A34%3A30%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [javanile-backup/twitterbot](https://github.com/javanile-backup/twitterbot) | 3 | 3 | 1 |  |
+| 1 | [javanile-backup/twitterbot](https://github.com/javanile-backup/twitterbot) | 2 | 2 | 1 |  |
 | 2 | [javanile-backup/agency](https://github.com/javanile-backup/agency) | 0 | 0 | 0 |  |
 | 3 | [javanile-backup/alpinejs-google](https://github.com/javanile-backup/alpinejs-google) | 0 | 0 | 0 |  |
 | 4 | [javanile-backup/avana](https://github.com/javanile-backup/avana) | 0 | 0 | 0 |  |
